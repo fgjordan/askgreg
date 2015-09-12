@@ -1,0 +1,2 @@
+# askgreg
+start your fortune
